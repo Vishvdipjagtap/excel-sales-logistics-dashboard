@@ -1,5 +1,5 @@
 # Interactive Sales & Logistics Performance Dashboard
-![Dashboard Preview](![Image](https://github.com/user-attachments/assets/7544b0c7-e716-4169-9142-6f4071b1eb82))
+![Dashboard Preview](https://github.com/user-attachments/assets/7544b0c7-e716-4169-9142-6f4071b1eb82)
 
 ## 📊 Project Overview
 This project features a fully dynamic, end-to-end Business Intelligence (BI) dashboard built entirely within Microsoft Excel. Utilizing a dataset containing nearly 10,000 retail transactions, this tool tracks key commercial health metrics, streamlines logistics analysis, and provides stakeholders with actionable insights into corporate profitability and shipping performance.
